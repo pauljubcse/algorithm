@@ -1,4 +1,4 @@
-package github.com/pauljubcse/algorithm
+package algorithm
 
 import (
 	"fmt"
