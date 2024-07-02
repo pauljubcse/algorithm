@@ -1,4 +1,4 @@
-package algorithm
+package github.com/pauljubcse/algorithm
 
 // Node
 type Node[T any] struct {
