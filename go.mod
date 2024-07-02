@@ -1,3 +1,3 @@
-module github.com/pauljubcse/algorithm
+module algorithm
 
 go 1.22.4
