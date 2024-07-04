@@ -1,4 +1,4 @@
-package algorithm
+package github.com/pauljubcse/algorithm
 
 import (
 	"hash/fnv"
